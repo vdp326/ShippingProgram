@@ -1,0 +1,29 @@
+c:\visual_studio14\VS_Projects\shipment2\shipment2\bin\Debug\shipment2.exe.config
+c:\visual_studio14\VS_Projects\shipment2\shipment2\bin\Debug\shipment2.exe
+c:\visual_studio14\VS_Projects\shipment2\shipment2\bin\Debug\shipment2.pdb
+c:\visual_studio14\VS_Projects\shipment2\shipment2\obj\Debug\shipment2.csprojResolveAssemblyReference.cache
+c:\visual_studio14\VS_Projects\shipment2\shipment2\obj\Debug\MainWindow.g.cs
+c:\visual_studio14\VS_Projects\shipment2\shipment2\obj\Debug\App.g.cs
+c:\visual_studio14\VS_Projects\shipment2\shipment2\obj\Debug\shipment2_MarkupCompile.cache
+c:\visual_studio14\VS_Projects\shipment2\shipment2\obj\Debug\shipment2_MarkupCompile.lref
+c:\visual_studio14\VS_Projects\shipment2\shipment2\obj\Debug\MainWindow.baml
+c:\visual_studio14\VS_Projects\shipment2\shipment2\obj\Debug\shipment2.g.resources
+c:\visual_studio14\VS_Projects\shipment2\shipment2\obj\Debug\shipment2.Properties.Resources.resources
+c:\visual_studio14\VS_Projects\shipment2\shipment2\obj\Debug\shipment2.csproj.GenerateResource.Cache
+c:\visual_studio14\VS_Projects\shipment2\shipment2\obj\Debug\shipment2.exe
+c:\visual_studio14\VS_Projects\shipment2\shipment2\obj\Debug\shipment2.pdb
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\bin\Debug\shipment2.exe.config
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\bin\Debug\shipment2.exe
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\bin\Debug\shipment2.pdb
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\obj\Debug\shipment2.csprojAssemblyReference.cache
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\obj\Debug\MainWindow.g.cs
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\obj\Debug\App.g.cs
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\obj\Debug\shipment2_MarkupCompile.cache
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\obj\Debug\shipment2_MarkupCompile.lref
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\obj\Debug\MainWindow.baml
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\obj\Debug\shipment2.g.resources
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\obj\Debug\shipment2.Properties.Resources.resources
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\obj\Debug\shipment2.csproj.GenerateResource.cache
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\obj\Debug\shipment2.csproj.CoreCompileInputs.cache
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\obj\Debug\shipment2.exe
+C:\Users\vupha\Desktop\UIS\Summer 2019\shipment2\shipment2\shipment2\obj\Debug\shipment2.pdb
